@@ -3,3 +3,4 @@ console.log(shoppingList.length);
 
 shoppingList[1] = "Bananas";
 console.log("Shopping List: " + shoppingList);
+
